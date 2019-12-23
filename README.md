@@ -1,9 +1,11 @@
 # Data-Science-Projects
 <hr>
+
 ## In this Repo I have included various Data Science Projects which I have complete from various freelancing projects.
 ## I have used various concepts on Data Science to solve these Data Science Problems.
 <hr>
 <br>
+
 # Topics Included are
 
 ## 1) Data Clearning
@@ -53,9 +55,11 @@
 <br>
 <hr>
 <br>
+
 # Modules Used in these Projects are
 <br>
 <br>
+
 ## Numpy
 ## Pandas
 ## Matplotlib
