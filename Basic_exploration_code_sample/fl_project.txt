@@ -1,0 +1,39 @@
+Task 1 – Bike journey data exploratory data analysis
+
+• Load the metro.csv file into a pandas data frame.
+• Find a sensible way to remove the missing values from the data frame, and
+explain why you have chosen this method.
+• Explore the distribution of the duration variable. You should produce a
+plot visualising the distribution, and calculate and discuss briefly statistics
+of the variable.
+• Produce a plot showing how the distribution of duration relates to passholder
+type.
+• Perform an appropriate statistical test to check if the mean duration
+is different between One Day Pass and Flex Pass passholders. What
+assumptions have you made by using this test?
+• Convert the start_time and end_time columns to date objects if they are
+not already.
+• Create a new column in the data frame that gives the hour of the day that
+each journey started on.
+• Explore how the duration variable varies between each journey starting
+hour of the day, creating a plot to visualise this.
+• Explore how the distribution of the duration variable varies between each
+day of the week, creating a plot to visualise this.
+• Calculate the total numbers of passholders of each type travelling on each
+week day. Discuss the results.
+
+Task 2 – Seed shape data
+• Load the seeds.csv file into a pandas data frame.
+• Explore the data, and find a way to cluster the seeds, assigning a cluster to
+each. Visualise the results, and explain why you have applied the method
+you have used.
+
+
+Task 3 – Social network analysis
+Using networkx, load the social network data in the social-network.csv file.
+• Produce a visualisation of the network and discuss the output.
+• Calculate statistics of the network, plot them where relevant, and discuss
+the results, explaining the meaning of any statistics you have calculated.
+You can use networkx to calculate statistics of the network, rather than implementing
+your own Python code to do so. The visualisation may be hard to
+interpret at first, experimenting with di
