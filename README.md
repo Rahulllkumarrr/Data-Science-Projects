@@ -1,10 +1,7 @@
 # Data-Science-Projects
-<hr>
 
 In this Repo I have included various Data Science Projects which I have complete from various freelancing projects.
 I have used various concepts on Data Science to solve these Data Science Problems.
-<hr>
-<br>
 
 # Topics Included are
 
@@ -29,10 +26,6 @@ I have used various concepts on Data Science to solve these Data Science Problem
 #### 19) Network Analysis
 #### 20) Supervised Clustering
 #### 21) Unsupervised Clustering
-
-<br>
-<hr>
-<br>
 
 # Modules Used in these Projects are
 
