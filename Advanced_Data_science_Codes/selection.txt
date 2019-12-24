@@ -1,0 +1,90 @@
+['Real Upper Band'] 
+
+
+['Real Upper Band', 'Chaikin A/D'] 
+
+
+['Real Upper Band', 'Chaikin A/D', 'Change_Nikkei'] 
+
+
+['Real Upper Band', 'Real Middle Band', 'Chaikin A/D', 'Change_Nikkei'] 
+
+
+['SMA', 'Real Upper Band', 'Real Middle Band', 'Chaikin A/D', 'Change_Nikkei'] 
+
+
+['SMA', 'Real Upper Band', 'Real Middle Band', 'Chaikin A/D', 'WMA', 'Change_Nikkei'] 
+
+
+['SMA', 'EMA', 'Real Upper Band', 'Real Middle Band', 'Chaikin A/D', 'WMA', 'Change_Nikkei'] 
+
+
+['SMA', 'EMA', 'Real Upper Band', 'Real Middle Band', 'Chaikin A/D', 'WMA', '4. close', 'Change_Nikkei'] 
+
+
+['SMA', 'EMA', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'WMA', '4. close', 'Change_Nikkei'] 
+
+
+['SMA', 'EMA', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', '4. close', 'Change_Nikkei'] 
+
+
+['SMA', 'EMA', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', '4. close', 'Change_Nikkei', 'Change_USD_EUR'] 
+
+
+['SMA', 'EMA', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', '4. close', 'Change_Nikkei', 'Change_Shanghai', 'Change_USD_EUR'] 
+
+
+['SMA', 'EMA', 'Aroon Down', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', '4. close', 'Change_Nikkei', 'Change_Shanghai', 'Change_USD_EUR'] 
+
+
+['SMA', 'EMA', 'MACD_Hist', 'Aroon Down', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', '4. close', 'Change_Nikkei', 'Change_Shanghai', 'Change_USD_EUR'] 
+
+
+['SMA', 'EMA', 'MACD_Hist', 'Aroon Down', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', '4. close', 'Change_Nikkei', 'Change_Shanghai', 'Change_USD_EUR'] 
+
+
+['SMA', 'EMA', 'MACD_Hist', 'Aroon Down', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', '4. close', 'Change_Nikkei', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Hist', 'Aroon Down', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', '4. close', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Hist', 'Aroon Down', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', '4. close', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'Aroon Down', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', '4. close', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'CCI', 'Aroon Down', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', '4. close', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'CCI', 'Aroon Down', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', '4. close', 'Change_DAX', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'CCI', 'Aroon Down', 'Aroon Up', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', '4. close', 'Change_DAX', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'CCI', 'Aroon Down', 'Aroon Up', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', 'SlowK', '4. close', 'Change_DAX', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'MACD', 'CCI', 'Aroon Down', 'Aroon Up', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'WILLR', 'SlowK', '4. close', 'Change_DAX', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'MACD', 'CCI', 'Aroon Down', 'Aroon Up', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'MOM', 'WILLR', 'SlowK', '4. close', 'Change_DAX', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'MACD', 'CCI', 'Aroon Down', 'Aroon Up', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'MOM', 'WILLR', 'SlowK', 'SlowD', '4. close', 'Change_DAX', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'MACD', 'CCI', 'Aroon Down', 'Aroon Up', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'MOM', 'WILLR', 'SlowK', 'SlowD', '4. close', 'Change_oil', 'Change_DAX', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'MACD', 'CCI', 'Aroon Down', 'Aroon Up', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'MOM', 'WILLR', 'SlowK', 'SlowD', '4. close', 'Change_oil', 'Change_DAX', 'Change_gold', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'MACD', 'ADX', 'CCI', 'Aroon Down', 'Aroon Up', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'MOM', 'WILLR', 'SlowK', 'SlowD', '4. close', 'Change_oil', 'Change_DAX', 'Change_gold', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
+['SMA', 'EMA', 'MACD_Signal', 'MACD_Hist', 'MACD', 'RSI', 'ADX', 'CCI', 'Aroon Down', 'Aroon Up', 'Real Upper Band', 'Real Lower Band', 'Real Middle Band', 'Chaikin A/D', 'OBV', 'WMA', 'MOM', 'WILLR', 'SlowK', 'SlowD', '4. close', 'Change_oil', 'Change_DAX', 'Change_gold', 'Change_Nikkei', 'Change_SP', 'Change_Shanghai', 'Change_USD_EUR', 'Change_USD_GBP', 'Change_USD_JPY'] 
+
+
