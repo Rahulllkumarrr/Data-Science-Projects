@@ -8,9 +8,9 @@ I have used various concepts on Data Science to solve these Data Science Problem
 
 # Topics Included are
 
-## 1) Data Clearning
+### 1) Data Clearning
 
-## 2) Data Pre-processing
+### 2) Data Pre-processing
 
 ## 3) Data Handling
 
